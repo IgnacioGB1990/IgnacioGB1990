@@ -1,4 +1,7 @@
-### Hi! I am Ignacio 👋
+# Hi! I am Ignacio 👋
+
+Alt-H1
+======
 
 I am a **Data Scientist** based in Madrid, Spain.
 
