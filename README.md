@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioGB1990&show_icons=true&theme=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioGB1990&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-ignaciogarciabarrero-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciogarciabarrero/)
