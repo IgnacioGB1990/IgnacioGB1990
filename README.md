@@ -1,6 +1,6 @@
 # Hi! I'm Ignacio 👋
 
-I am a **Data Scientist** based in Madrid, Spain.
+I am a **Data Scientist** student based in Madrid, Spain.
 
 <!--
 **IgnacioGB1990/IgnacioGB1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
