@@ -1,8 +1,12 @@
 # Hi! I'm Ignacio 👋
 
-I am a **Data Science** student based in Madrid, Spain. I also like to create web apps using React.
+I am a **Data Science** student based in Madrid, Spain. I also like to create web apps using React. The main technologies I use:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioGB1990)](https://github.com/IgnacioGB1990/github-readme-stats)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=F05032)
+
+
+
 
 
 <!--
