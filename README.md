@@ -2,7 +2,7 @@
 
 I am a **Data Science** student based in Madrid, Spain. I also like to create web apps using React. The main technologies I work with are:
 
-
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=Python&logoColor=#0000FF)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=#0000FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=F05032)
 
@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-ignaciogarciabarrero-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciogarciabarrero/)
 -->
 
-
+<!--
 ![Snake animation](https://github.com/IgnacioGB1990/IgnacioGB1990/blob/output/github-contribution-grid-snake.svg)
+-->
