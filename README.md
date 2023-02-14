@@ -3,7 +3,7 @@
 I am a **Data Science** student based in Madrid, Spain. I also like to create web apps using React. The main technologies I use:
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=F05032)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933)![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=F05032)
 
 
 
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioGB1990&show_icons=true&theme=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioGB1990&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-ignaciogarciabarrero-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciogarciabarrero/)
