@@ -1,6 +1,9 @@
 # Hi! I'm Ignacio 👋
 
-I am a **Data Scientist** student based in Madrid, Spain.
+I am a **Data Science** student based in Madrid, Spain. I also like to create web apps using React.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioGB1990)](https://github.com/IgnacioGB1990/github-readme-stats)
+
 
 <!--
 **IgnacioGB1990/IgnacioGB1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
