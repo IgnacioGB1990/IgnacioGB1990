@@ -2,7 +2,7 @@
 
 I am a **Data Science** student based in Madrid, Spain. The main technologies I work with are:
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=#0000FF)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=F7DF1E)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy&logoColor=#0000FF)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=#0000FF)
 
