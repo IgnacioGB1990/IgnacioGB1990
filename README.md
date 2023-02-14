@@ -7,9 +7,10 @@ I am a **Data Science** student based in Madrid, Spain. The main technologies I 
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=#0000FF)
 
 
-I also like to create **web apps** using **React**.
+I also like to create **web apps** with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=339933) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) 
 
 
 
