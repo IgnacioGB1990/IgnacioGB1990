@@ -1,4 +1,4 @@
-# Hi! I'm Ignacio 👋
+# Hi! I'm Ignacio 👋 👨‍💻
 
 I am a **Data Science** student based in Madrid, Spain. The main technologies I work with are:
 
