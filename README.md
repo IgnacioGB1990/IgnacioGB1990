@@ -5,6 +5,7 @@ I am a **Data Science** student based in Madrid, Spain. The main technologies I 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy&logoColor=lightblue)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=blue)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-333333?style=flat&logo=Scikit-Learn&logoColor=orange)
 
 
 I also like to create **Web Apps** with:
