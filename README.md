@@ -3,9 +3,13 @@
 I am a **Data Science** student based in Madrid, Spain. The main technologies I work with are:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=white)
+
+<!--
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy&logoColor=lightblue)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=blue)
-![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=Scikit-learn&logoColor=orange)
+-->
+
+![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=Scikit-learn&logoColor=blue)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow&logoColor=orange)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=red)
 <!--
