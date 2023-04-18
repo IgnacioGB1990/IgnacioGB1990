@@ -2,7 +2,7 @@
 
 I am a **Data Science** student based in Madrid, Spain. The main technologies I work with are:
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=ffd343)
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=Scikit-learn&logoColor=blue)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow&logoColor=orange)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=red)
