@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgnacioGB1990&label=Profile%20views&color=0e75b6&style=flat" alt="IgnacioGB1990" /> </p>
 
 
-- I’m currently working on  a [![**Final Data Science project**](https://github.com/IgnacioGB1990/Data_Desafio)]
+- I’m currently working on  a <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Final Data Project</a>
 
 - I’m currently learning **Deep Learning**
 
