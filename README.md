@@ -13,7 +13,7 @@
 
 
 
-- I’m currently working on our final <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Bootcamp Project</a>
+- I’m currently working on my final <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Bootcamp Project</a>
 
 - I’m currently learning **AWS**
 
