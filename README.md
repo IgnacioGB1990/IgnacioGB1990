@@ -10,6 +10,14 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=blue)
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=Scikit-learn&logoColor=orange)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ignaciogarciabarrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignaciogarciabarrero" height="30" width="40" /></a>
+
+</p>
+
+
 <!--
 ![imagen](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 -->
