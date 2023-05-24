@@ -12,7 +12,7 @@
 
 -  I like to create Web Apps on my free time with **React**
 
-- 🏊🏻‍♂️  I have been swimming since I was **3 years old**
+- 🏊🏻‍♂️  Swimming since I was **3 years old** and never stopped!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
