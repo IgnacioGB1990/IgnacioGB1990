@@ -15,6 +15,15 @@
 - 🏊🏻‍♂️  I have been swimming since I was **3 years old**
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  
+</p>
+
+
+
+
+
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=ffd343)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy&logoColor=lightblue)
