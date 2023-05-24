@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgnacioGB1990&label=Profile%20views&color=0e75b6&style=flat" alt="IgnacioGB1990" /> </p>
 
 
-- 🔭 I’m currently finishing a **Data Science Bootcamp**
+- I’m currently finishing a **Data Science Bootcamp**
 
-- 🌱 I’m currently learning **Deep Learning**
+- I’m currently learning **Deep Learning**
 
 -  I like to create Web Apps on my free time with **React**
 
-- 🏊🏻‍♂️  Swimming since I was **3 years old** and never stopped!
+-  Swimming since I was **3 years old** and never stopped! 🏊🏻‍♂️ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
