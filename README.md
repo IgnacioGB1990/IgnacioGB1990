@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgnacioGB1990&label=Profile%20views&color=0e75b6&style=flat" alt="IgnacioGB1990" /> </p>
 
-[elmundo](http://elmundo.com){:target="_blank"}
+
 
 - I’m currently working on our final <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Bootcamp Project</a>
 
