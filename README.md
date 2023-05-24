@@ -1,6 +1,9 @@
-# Hi! I'm Ignacio 👋 👨‍💻
 
-I am a **Data Science** student. The main technologies I work with are:
+<h1 align="center">Hi! I'm Ignacio 👋 👨‍💻</h1>
+<h3 align="center">A passionate Data Scientist from Spain</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=ffd343)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy&logoColor=lightblue)
