@@ -13,7 +13,7 @@
 
 
 
-- Check out my latest project: <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Project Blue</a>
+- Check out my latest project: <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Blue</a>
 
 - I’m currently learning **AWS**
 
