@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgnacioGB1990&label=Profile%20views&color=0e75b6&style=flat" alt="IgnacioGB1990" /> </p>
 
 
--  I am currenlty working in pefecting my knowledge in  **SQL**
+-  I like to share Data Science knowledge and concepts.
 
 - Check out my latest project: <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Blue</a>
 
