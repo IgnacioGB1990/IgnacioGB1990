@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
 <h3 align="center">A Data Scientist from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> Hi </p>
+<p align="left">    </p>
 -  I like to share Data Science knowledge and concepts.
 
 - Check out my latest project: <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Blue</a>
