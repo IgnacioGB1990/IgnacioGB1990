@@ -47,7 +47,7 @@
 </p>
 
 
-   <!--    -->
+   <!--    
 [![Ignacio's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IgnacioGB1990&&theme=xcode)](https://github.com/IgnacioGB1990)
 
       
@@ -55,7 +55,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgnacioGB1990&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IgnacioGB1990" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IgnacioGB1990&show_icons=true&locale=en&theme=tokyonight" alt="IgnacioGB1990" /></p>
-
+-->
       
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IgnacioGB1990&&theme=tokyonight" alt="IgnacioGB1990" /></p>
   
