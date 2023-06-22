@@ -14,7 +14,7 @@
 
 - Check out my latest project: <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Blue</a>
 
-- I’m currently learning <a href="https://github.com/IgnacioGB1990/NPL" target="blank">NPL</a>
+- I’m currently learning <a href="https://github.com/IgnacioGB1990/NLP" target="blank">NLP</a>
 
 -  Swimming since I was **3 years old** and have never stopped!
 
