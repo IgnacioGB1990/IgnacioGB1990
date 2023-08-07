@@ -16,7 +16,7 @@
 
 - I’m currently learning <a href="https://github.com/IgnacioGB1990/NLP" target="blank">NLP</a>
 
--  Swimming since I was **3 years old** and have never stopped!
+-  Swimming since I was 3 years old and have never stopped!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
