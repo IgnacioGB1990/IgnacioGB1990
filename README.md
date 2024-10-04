@@ -5,7 +5,7 @@
 
 -->
 
-<h2 align="center">Hi 👋, I'm Ignacio. A Data Scientist from Spain.</h2>
+<h2 align="center">Hi 👋, I'm Ignacio a data scientist from Spain.</h2>
 
 <h3 align="center">Just keep swimming, just keep coding</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
