@@ -10,6 +10,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgnacioGB1990&label=Profile%20views&color=0e75b6&style=flat" alt="IgnacioGB1990" /> </p>
 
+<h4 align="center">Just keep swimming, ...just keep coding</h4>
+<!--
 -  I like to share Data Science knowledge and concepts: <a href="https://github.com/IgnacioGB1990/ML" target="blank">ML</a>
 
 - Check out my latest project: <a href="https://github.com/IgnacioGB1990/Data_Desafio" target="blank">Blue</a>
@@ -17,7 +19,7 @@
 - I’m currently learning <a href="https://github.com/IgnacioGB1990/NLP" target="blank">NLP</a>
 
 -  Swimming since I was 3 years old and have never stopped!
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ignaciogarciabarrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignaciogarciabarrero" height="30" width="40" /></a>
