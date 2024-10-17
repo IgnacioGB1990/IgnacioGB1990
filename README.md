@@ -7,7 +7,8 @@
 
 <h2 align="center">Hi 👋, I'm Ignacio a data scientist from Spain.</h2>
 
-<h3 align="center">Just keep coding, just keep swimming 🏊🏻‍♂️</h3>
+<h3 align="center">Just keep coding</h3>
+<h4 align="center">Just keep swimming 🏊🏻‍♂️</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgnacioGB1990&label=Profile%20views&color=0e75b6&style=flat" alt="IgnacioGB1990" /> </p>
 
